@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <clipPath id="clip-Tavola_disegno_5">
+      <rect width="1280" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Tavola_disegno_5" data-name="Tavola disegno 5" clip-path="url(#clip-Tavola_disegno_5)">
+    <rect width="1280" height="800" fill="#fff"/>
+    <g id="Component_2_3" data-name="Component 2 – 3">
+      <g id="Group_41" data-name="Group 41" transform="translate(0 250)" opacity="0.13">
+        <path id="Path_39" data-name="Path 39" d="M0,550H74.133V-250H0Z" fill="#0055df"/>
+        <path id="Path_40" data-name="Path 40" d="M86.134,550h74.133V-250H86.134Z" fill="#0055df"/>
+        <path id="Path_41" data-name="Path 41" d="M172.266,550H246.4V-250H172.266Z" fill="#0055df"/>
+        <path id="Path_42" data-name="Path 42" d="M258.108,550h74.133V-250H258.108Z" fill="#0055df"/>
+        <path id="Path_43" data-name="Path 43" d="M344.534,550h74.133V-250H344.534Z" fill="#0055df"/>
+        <path id="Path_44" data-name="Path 44" d="M430.666,550H504.8V-250H430.666Z" fill="#0055df"/>
+        <path id="Path_45" data-name="Path 45" d="M516.508,550h74.133V-250H516.508Z" fill="#0055df"/>
+        <path id="Path_46" data-name="Path 46" d="M602.933,550h74.133V-250H602.933Z" fill="#0055df"/>
+        <path id="Path_47" data-name="Path 47" d="M689.067,550H763.2V-250H689.067Z" fill="#0055df"/>
+        <path id="Path_48" data-name="Path 48" d="M775.2,550h74.134V-250H775.2Z" fill="#0055df"/>
+        <path id="Path_49" data-name="Path 49" d="M861.333,550h74.133V-250H861.333Z" fill="#0055df"/>
+        <path id="Path_50" data-name="Path 50" d="M947.467,550H1021.6V-250H947.467Z" fill="#0055df"/>
+        <path id="Path_51" data-name="Path 51" d="M1033.6,550h74.134V-250H1033.6Z" fill="#0055df"/>
+        <path id="Path_52" data-name="Path 52" d="M1119.733,550h74.134V-250h-74.134Z" fill="#0055df"/>
+        <path id="Path_53" data-name="Path 53" d="M1205.867,550H1280V-250h-74.133Z" fill="#0055df"/>
+      </g>
+    </g>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(86.134 65.181)">
+      <path id="Path_13" data-name="Path 13" d="M2356.407,122.912c.649-.4.743-1.024.743-2.165V89.506c0-5.186-.124-8.766-2.224-10.865a7.115,7.115,0,0,0-5.309-1.853,17.4,17.4,0,0,0-7.9,2.223v41.736c0,1.853.247,2.346,2.717,2.717l1.976.37v.988H2318.87v-.988l1.976-.37c2.964-.494,3.335-.864,3.335-2.841V81.974c0-2.1-.371-3.457-1.359-4.569l-3.581-4.074V72.96l7-2.371,15.966-5.408.247.37c-.247,3.335-.494,6.545-.494,7.9l-.123,3.581.493.247c7.657-7.779,13.584-11.114,20.128-11.114a12.217,12.217,0,0,1,8.644,3.458c1.852,1.853,2.839,4.322,3.333,8.273,6.422-6.791,13.213-11.731,20.992-11.731a12.216,12.216,0,0,1,8.644,3.458c2.1,2.223,3.457,5.31,3.457,12.472v38.649c0,1.975.247,2.223,3.335,2.717l1.975.37v.988h-18.9c-.729-3.775-4.357-2.161-4.357-2.161a2.8,2.8,0,0,0,.417-1.914V89.506c0-5.186,0-8.766-2.1-10.865a7.312,7.312,0,0,0-5.31-1.853c-2.593,0-5.679,1.234-8.026,2.47.123,1.358.123,2.84.123,4.568v36.921c0,1.853.124,2.346,2.594,2.717l1.976.37v.988H2360.66Z" transform="translate(-2304.713 -65.181)" fill="#030404"/>
+      <path id="Path_14" data-name="Path 14" d="M2351.634,171.181h-27.789v-.988l1.994-.37c2.99-.494,3.365-.864,3.365-2.84v-38.65c0-2.1-.375-3.457-1.372-4.568l-3.613-4.075v-.371l23.178-7.779.249.371c-.249,3.334-.5,6.544-.5,7.9l-.124,3.582.5.247c7.726-7.78,13.708-11.114,20.313-11.114a12.393,12.393,0,0,1,8.723,3.457c1.869,1.853,2.865,4.322,3.364,8.274,6.48-6.792,13.334-11.731,21.185-11.731a12.392,12.392,0,0,1,8.723,3.457c2.118,2.223,3.489,5.31,3.489,12.472v38.65c0,1.975.249,2.222,3.365,2.716l1.993.37v.988h-27.664v-.988l1.994-.37c2.367-.371,2.616-.864,2.616-2.716V135.866c0-5.187,0-8.767-2.118-10.866a7.422,7.422,0,0,0-5.358-1.853c-2.617,0-5.732,1.235-8.1,2.47.124,1.358.124,2.84.124,4.568v36.922c0,1.852.125,2.345,2.617,2.716l1.995.37v.988H2357.74v-.988l1.993-.37c2.493-.371,2.743-.864,2.743-2.716V135.866c0-5.187-.126-8.767-2.244-10.866a7.224,7.224,0,0,0-5.358-1.853,17.7,17.7,0,0,0-7.976,2.223v41.737c0,1.852.25,2.345,2.742,2.716l1.994.37Z" transform="translate(-2304.713 -65.181)" fill="#030404"/>
+      <path id="Path_15" data-name="Path 15" d="M2320.7,123.544l7.856,1.277c-1.692.544-4.609-.026-7,.254a24.249,24.249,0,0,0-7.881,2.682c-3.722,1.812-5.856,6.1-5.856,8.21,0,.777.365,2.433,1.094,2.517,1.02.117,2.572-1.542,3.264-1.542l2.29-.085c4.409-.169,5.173,2.629,5.173,4.664a6.67,6.67,0,0,1-7.038,6.869c-3.647,0-7.886-2.714-7.886-9.922,0-8.055,6.826-13.737,15.985-14.924" transform="translate(-2304.713 -65.181)" fill="#030404"/>
+    </g>
+    <text id="ABOUT" transform="translate(888.484 74.072)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">ABOUT</tspan></text>
+    <text id="E-MAIL" transform="translate(892.024 745.185)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">E-MAIL</tspan></text>
+    <text id="INSTAGRAM" transform="translate(258.101 745.185)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">IN</tspan><tspan y="0" letter-spacing="-0.014em">S</tspan><tspan y="0" letter-spacing="-0.09em">T</tspan><tspan y="0" letter-spacing="-0.041em">A</tspan><tspan y="0">GRAM</tspan></text>
+    <text id="WORK" transform="translate(1066.757 74.072)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0" letter-spacing="-0.014em">W</tspan><tspan y="0">ORK</tspan></text>
+    <text id="DRIBBLE" transform="translate(516.496 745.185)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">DRIBBLE</tspan></text>
+    <text id="FLICKR" transform="translate(358.409 745.185)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">FLICKR</tspan></text>
+    <text id="BEHANCE" transform="translate(430.373 745.185)" fill="#030404" font-size="12" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">BEHANCE</tspan></text>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="1280" height="800" fill="none"/>
+    <text id="BALANCE" transform="translate(246.4 392.032)" fill="#030404" font-size="163" font-family="HelveticaLTStd-Blk, Helvetica LT Std"><tspan x="0" y="0">BALANCE</tspan></text>
+    <text id="your_typo" data-name="your typo" transform="translate(246.4 515.097)" fill="#030404" font-size="163" font-family="HelveticaLTStd-BlkObl, Helvetica LT Std" font-style="oblique"><tspan x="0" y="0" letter-spacing="0.02em">your</tspan><tspan y="0" letter-spacing="0.019em"> </tspan><tspan y="0" letter-spacing="0.02em">t</tspan><tspan y="0" letter-spacing="0.019em">y</tspan><tspan y="0" letter-spacing="0.02em">p</tspan><tspan y="0">o</tspan></text>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="1280" height="800" fill="none"/>
+  </g>
+</svg>
